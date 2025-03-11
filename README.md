@@ -40,7 +40,7 @@ Provide the following SQL scripts:
 
 - **Insert Data Script** - The SQL script for insert datat to the database tables is available in the repository:  
 
-📜 **[View `insert_tables.sql`](scripts/create_tables.sql)**  
+📜 **[View `insert_tables.sql`](Phase1/scripts/NurserySchoolnserts (1).sql)**  
  
 - **Drop Tables Script** - The SQL script for droping all tables is available in the repository:  
 
