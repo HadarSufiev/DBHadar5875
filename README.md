@@ -35,6 +35,25 @@ This structured database helps streamline nursery school operations, improving o
 ##  SQL Scripts  
 Provide the following SQL scripts:  
 - **Create Tables Script**
+
+  
+---
+
+### **Option 2: Reference an External SQL File from GitHub**  
+If your SQL script is stored in a separate file in your repository (e.g., `scripts/create_tables.sql`), you can link it directly in your README:  
+
+```markdown
+## Database Schema  
+
+The SQL script for creating the database tables is available in the repository:  
+
+[📜 View `create_tables.sql`](scripts/create_tables.sql)  
+
+To run it, use:  
+```sh
+psql -U your_user -d your_database -f scripts/create_tables.sql
+
+
 - **Insert Data Script**  
 - **Drop Tables Script**  
 - **Select All Data Script**  
