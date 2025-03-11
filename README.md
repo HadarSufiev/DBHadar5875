@@ -4,9 +4,18 @@
 
 Submitters: Sufiev Hadasa Hadar Example
 
+## Table of Contents  
+- [Phase 1: Design and Build the Database](#phase-1-design-and-build-the-database)  
+  - [Introduction](#introduction)  
+  - [ERD (Entity-Relationship Diagram)](#erd-entity-relationship-diagram)  
+  - [DSD (Data Structure Diagram)](#dsd-data-structure-diagram)  
+  - [SQL Scripts](#sql-scripts)  
+  - [Data](#data)  
+- [Phase 2: Integration](#phase-2-integration)  
+
 ## Phase 1: Design and Build the Database  
 
-## Introduction
+### Introduction
 
 The **Nursery School Database** is designed to efficiently manage information related to children, parents, nannies, and nursery groups. This system ensures smooth organization and tracking of essential details such as group assignments, caregiver experience, child-parent relationships, and contact information.
 
@@ -52,4 +61,8 @@ Provide the following SQL scripts:
   
 ##  Data
 
+- **First Method**
+- **Second Method**
+- **Third Method**
 
+## Phase 2: Integration 
