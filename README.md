@@ -35,13 +35,13 @@ This database serves as a structured and reliable solution for nursery schools t
 
 This structured database helps streamline nursery school operations, improving organization, safety, and communication among all parties involved.
 
-##  ERD (Entity-Relationship Diagram)    
+###  ERD (Entity-Relationship Diagram)    
 ![ERD Diagram](Phase1/ERDAndDSTFiles/ERD.png)  
 
-##  DSD (Data Structure Diagram)   
+###  DSD (Data Structure Diagram)   
 ![DSD Diagram](Phase1/ERDAndDSTFiles/DSD.png)  
 
-##  SQL Scripts  
+###  SQL Scripts  
 Provide the following SQL scripts:  
 - **Create Tables Script** - The SQL script for creating the database tables is available in the repository:  
 
@@ -60,9 +60,15 @@ Provide the following SQL scripts:
 📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll.sql)**  
   
 ##  Data
-
 - **First Method**
 - **Second Method**
 - **Third Method**
+
+## backup 
+-  The backup file is available in the repository:  
+
+📜 **[View `backup`](Phase1/Backup/backup04032025)**  
+
+
 
 ## Phase 2: Integration 
