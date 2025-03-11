@@ -36,19 +36,19 @@ This structured database helps streamline nursery school operations, improving o
 Provide the following SQL scripts:  
 - **Create Tables Script** - The SQL script for creating the database tables is available in the repository:  
 
-📜 **[View `create_tables.sql`](scripts/create_tables.sql)**  
+📜 **[View `create_tables.sql`](Phase1/scripts/NurserySchoolCreateTable.sql)**  
 
 - **Insert Data Script** - The SQL script for insert datat to the database tables is available in the repository:  
 
-📜 **[View `insert_tables.sql`](Phase1/scripts/NurserySchoolnserts (1).sql)**  
+📜 **[View `insert_tables.sql`](Phase1/scripts/NurserySchoolInserts.sql)**  
  
 - **Drop Tables Script** - The SQL script for droping all tables is available in the repository:  
 
-📜 **[View `drop_tables.sql`](scripts/create_tables.sql)**  
+📜 **[View `drop_tables.sql`](Phase1/scripts/NurserySchoolDropTable.sql)**  
 
 - **Select All Data Script**  - The SQL script for selectAll tables is available in the repository:  
 
-📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll (1).sql)**  
+📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll.sql)**  
   
 ##  Data
 
