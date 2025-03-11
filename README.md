@@ -48,7 +48,7 @@ Provide the following SQL scripts:
 
 - **Select All Data Script**  - The SQL script for selectAll tables is available in the repository:  
 
-📜 **[View `selectAll_tables.sql`](scripts/create_tables.sql)**  
+📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll (1).sql)**  
   
 ##  Data
 
