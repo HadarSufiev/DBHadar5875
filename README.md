@@ -8,9 +8,8 @@ Submitters:
 ### a. Background  
 Provide a global introduction to your project, explaining its purpose, objectives, and any relevant background information.  
 
-### b. ERD (Entity-Relationship Diagram)  
-Insert the ERD diagram of your database. You can include an image of the diagram:  
-![ERD Diagram](path/to/your/image.png)  
+### b. ERD (Entity-Relationship Diagram)    
+![ERD Diagram](Phase1/ERDAndDSTFiles/ERD.png)  
 
 ### c. DSD (Data Structure Diagram)   
 ![DSD Diagram](Phase1/ERDAndDSTFiles/DSD.png)  
