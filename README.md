@@ -10,7 +10,8 @@ Submitters: Sufiev Hadasa Hadar Example
   - [ERD (Entity-Relationship Diagram)](#erd-entity-relationship-diagram)  
   - [DSD (Data Structure Diagram)](#dsd-data-structure-diagram)  
   - [SQL Scripts](#sql-scripts)  
-  - [Data](#data)  
+  - [Data](#data)
+  - [Backup](#backup)  
 - [Phase 2: Integration](#phase-2-integration)  
 
 ## Phase 1: Design and Build the Database  
@@ -19,7 +20,7 @@ Submitters: Sufiev Hadasa Hadar Example
 
 The **Nursery School Database** is designed to efficiently manage information related to children, parents, nannies, and nursery groups. This system ensures smooth organization and tracking of essential details such as group assignments, caregiver experience, child-parent relationships, and contact information.
 
-### Purpose of the Database
+#### Purpose of the Database
 This database serves as a structured and reliable solution for nursery schools to:  
 - **Organize groups** of children based on age, availability, and special needs.  
 - **Manage caregiver assignments** by linking experienced nannies to specific groups.  
@@ -27,7 +28,7 @@ This database serves as a structured and reliable solution for nursery schools t
 - **Store contact information**, including addresses, phone numbers, and emails.  
 - **Track essential details** such as children's birthdates, allergies, and caregiver experience.  
 
-### Potential Use Cases
+#### Potential Use Cases
 - **Nursery School Administrators** can use this database to efficiently allocate children to groups, assign caregivers, and store emergency contacts.  
 - **Parents** can track their child's assigned group, caregiver details, and provide important information about allergies or special needs.  
 - **Nannies** can view their assigned groups and the children under their care.  
@@ -59,12 +60,12 @@ Provide the following SQL scripts:
 
 📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll.sql)**  
   
-##  Data
+###  Data
 - **First Method**
 - **Second Method**
 - **Third Method**
 
-## backup 
+### Backup 
 -  The backup file is available in the repository:  
 
 📜 **[View `backup`](Phase1/Backup/backup04032025)**  
