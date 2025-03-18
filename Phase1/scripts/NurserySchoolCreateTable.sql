@@ -1,75 +1,115 @@
-CREATE TABLE if not exists public.Group
+CREATE TABLE if not exists public.BabyGroup
 (
   GroupNumber INT NOT NULL,
   GroupMax INT NOT NULL,
   GroupType VARCHAR(15) NOT NULL,
   startTime VARCHAR(5) NOT NULL,
   finishtime VARCHAR(5) NOT NULL,
+  year VARCHAR(5) NOT NULL,
   PRIMARY KEY (GroupNumber)
 );
 
 CREATE TABLE if not exists public.Person
 (
-  PersonId VARCHAR(9) NOT NULL,
+  PersonId INT NOT NULL,
   PersonFirstName VARCHAR(15) NOT NULL,
   city VARCHAR(15) NOT NULL,
-  street VARCHAR(30) NOT NULL,
+  street VARCHAR(15) NOT NULL,
   num INT NOT NULL,
   PersonLastName VARCHAR(15) NOT NULL,
-  Mail VARCHAR(20),
+  Mail VARCHAR(25),
   PRIMARY KEY (PersonId)
 );
 
 CREATE TABLE if not exists public.Nanny
 (
-  experiance INT NOT NULL,
-  PersonId VARCHAR(9) NOT NULL,
+  experiance int NOT NULL,
+  salary INT NOT NULL,
+  HireDate date NOT NULL,
+  Certification VARCHAR(25) NOT NULL,
+  Specialization VARCHAR(25) NOT NULL,
+  PersonId INT NOT NULL,
   PRIMARY KEY (PersonId),
   FOREIGN KEY (PersonId) REFERENCES Person(PersonId)
 );
 
-CREATE TABLE if not exists public.Parent
+CREATE TABLE if not exists public.Apotropus
 (
-  duty VARCHAR(50),
-  Attribute INT NOT NULL,
-  PersonId VARCHAR(9) NOT NULL,
+  workPhone VARCHAR(10),
+  RelationToChild VARCHAR(10) NOT NULL,
+  Workplace VARCHAR(15),
+  PersonId INT NOT NULL,
   PRIMARY KEY (PersonId),
   FOREIGN KEY (PersonId) REFERENCES Person(PersonId)
 );
 
 CREATE TABLE if not exists public.Telephone
 (
-  number VARCHAR(15) NOT NULL,
-  type INT NOT NULL,
-  PersonId VARCHAR(9) NOT NULL,
+  number VARCHAR(10) NOT NULL,
+  type VARCHAR(15) NOT NULL,
+  telNum int NOT NULL,
+  PersonId INT NOT NULL,
+  PRIMARY KEY (telNum),
   FOREIGN KEY (PersonId) REFERENCES Person(PersonId)
 );
 
-CREATE TABLE if not exists public.NanyGroup
+CREATE TABLE if not exists public.Vacation
 (
-  PersonId VARCHAR(9) NOT NULL,
-  GroupNumber INT NOT NULL,
-  PRIMARY KEY (PersonId, GroupNumber),
-  FOREIGN KEY (PersonId) REFERENCES Nanny(PersonId),
-  FOREIGN KEY (GroupNumber) REFERENCES public.Group(GroupNumber)
+  startDate date NOT NULL,
+  endDate date NOT NULL,
+  year VARCHAR(5) NOT NULL,
+  HolidayName VARCHAR(15) NOT NULL,
+  VacationNum INT NOT NULL,
+  PRIMARY KEY (VacationNum)
 );
 
 CREATE TABLE if not exists public.Baby
 (
-  BabyId VARCHAR(9) NOT NULL,
-  BabyBirthday DATE NOT NULL,
-  BabyName INT NOT NULL,
-  sensitivity VARCHAR(20) NOT NULL,
+  BabyBirthday date NOT NULL,
+  sensitivity VARCHAR(15) NOT NULL,
+  BabyName VARCHAR(15) NOT NULL,
+  BabyId INT NOT NULL,
   GroupNumber INT NOT NULL,
   PRIMARY KEY (BabyId),
-  FOREIGN KEY (GroupNumber) REFERENCES public.Group(GroupNumber)
+  FOREIGN KEY (GroupNumber) REFERENCES BabyGroup(GroupNumber)
 );
 
-CREATE TABLE if not exists public.ParentBayby
+CREATE TABLE if not exists public.Enrollment
 (
-  PersonId VARCHAR(9) NOT NULL,
-  BabyId VARCHAR(9) NOT NULL,
-  PRIMARY KEY (PersonId, BabyId),
-  FOREIGN KEY (PersonId) REFERENCES Parent(PersonId),
+  RegisterNum INT NOT NULL,
+  EnrollmentDate date NOT NULL,
+  status VARCHAR(15) NOT NULL,
+  PersonId INT NOT NULL,
+  BabyId INT NOT NULL,
+  PRIMARY KEY (RegisterNum),
+  FOREIGN KEY (PersonId) REFERENCES Apotropus(PersonId),
   FOREIGN KEY (BabyId) REFERENCES Baby(BabyId)
 );
+
+CREATE TABLE if not exists public.NanyGroup
+(
+  PersonId INT NOT NULL,
+  GroupNumber INT NOT NULL,
+  PRIMARY KEY (PersonId, GroupNumber),
+  FOREIGN KEY (PersonId) REFERENCES Nanny(PersonId),
+  FOREIGN KEY (GroupNumber) REFERENCES BabyGroup(GroupNumber)
+);
+
+CREATE TABLE if not exists public.NanyVacation
+(
+  PersonId INT NOT NULL,
+  VacationNum INT NOT NULL,
+  PRIMARY KEY (PersonId, VacationNum),
+  FOREIGN KEY (PersonId) REFERENCES Nanny(PersonId),
+  FOREIGN KEY (VacationNum) REFERENCES Vacation(VacationNum)
+);
+
+CREATE TABLE if not exists public.BabyApotropus
+(
+  BabyId INT NOT NULL,
+  PersonId INT NOT NULL,
+  PRIMARY KEY (BabyId, PersonId),
+  FOREIGN KEY (BabyId) REFERENCES Baby(BabyId),
+  FOREIGN KEY (PersonId) REFERENCES Apotropus(PersonId)
+);
+
