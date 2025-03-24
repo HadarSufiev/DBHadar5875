@@ -76,15 +76,15 @@ Provide the following SQL scripts:
 📜 **[View `apotropusMock_data.csv`](Phase1/mockData/apotropusMOCK_DATA.csv)**
 ![image](https://github.com/user-attachments/assets/08e3b07b-c3ab-44c6-917b-f904926f6901)
 ![image](https://github.com/user-attachments/assets/6833ecf1-90e6-454d-8396-9dddf415e323)
-results for  the command `SELECT 'Apotropus' AS table_name, COUNT(*) FROM Apotropus;`:
+results for  the command `SELECT COUNT(*) FROM Apotropus;`:
 <br>
 ![image](https://github.com/user-attachments/assets/eaa16659-2fd8-44c0-81cf-c30f62632258)
-דדדדדדdd
+
 ####  Second tool: using [generatedata](https://generatedata.com/generator). to create csv file 
 #####  Entering a data to babyGroup table
 -  Group Number  scope 1-400
 -  
-📜[View `personMock_data.csv`](Phase1/generateData/Person_MOCK_DATA.csv)
+📜[View `personMock_data.csv`](Phase1/generateData/babyGroupGenerateData.csv)
 
 ![image](https://github.com/user-attachments/assets/9cf296ca-5ccf-46a2-a484-18bd5a5bef4d)
 
@@ -92,7 +92,9 @@ results for  the command `SELECT 'Apotropus' AS table_name, COUNT(*) FROM Apotro
 
 ![image](https://github.com/user-attachments/assets/b2045ef2-ca93-4829-af5f-843e792afdfd)
 
-
+results for  the command `SELECT COUNT(*) FROM BabyGroup;`:
+<br>
+![image](https://github.com/user-attachments/assets/3572a931-0f33-4e31-aced-371117e109db)
 
 ####  Third tool: using python to create csv file
 
