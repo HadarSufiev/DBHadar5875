@@ -1,0 +1,401 @@
+experiance,salary,hiredate,certification,specialization,personid
+1,7969,2025-03-17,Programmer I,Product Management,1
+2,4943,2025-03-16,Analyst Programmer,Engineering,2
+3,5423,2024-09-08,Payment Adjustment Coordinator,Legal,3
+4,5623,2024-11-08,Database Administrator I,Sales,4
+5,5941,2024-11-18,Sales Representative,Services,5
+6,8472,2024-07-13,Librarian,Business Development,6
+7,4249,2024-05-17,Technical Writer,Legal,7
+8,7998,2024-08-21,Senior Cost Accountant,Marketing,8
+9,4638,2024-04-24,Compensation Analyst,Research and Development,9
+10,6181,2024-12-03,Account Representative II,Legal,10
+11,8514,2025-01-24,Food Chemist,Product Management,11
+12,4081,2024-08-13,Safety Technician II,Services,12
+13,7787,2024-07-19,General Manager,Legal,13
+14,7998,2024-05-05,Professor,Engineering,14
+15,7757,2024-11-19,Desktop Support Technician,Engineering,15
+16,7348,2024-07-28,Accountant IV,Business Development,16
+17,6047,2024-04-21,Computer Systems Analyst I,Marketing,17
+18,8066,2024-05-23,Environmental Specialist,Training,18
+19,7295,2024-04-03,Analyst Programmer,Business Development,19
+20,7110,2024-08-08,VP Product Management,Sales,20
+21,5972,2025-01-16,Quality Engineer,Human Resources,21
+22,7852,2025-01-02,Environmental Tech,Marketing,22
+23,4802,2024-09-30,Information Systems Manager,Sales,23
+24,4013,2024-06-30,Executive Secretary,Services,24
+25,5720,2024-07-23,Geologist IV,Sales,25
+26,5056,2024-06-11,Recruiter,Product Management,26
+27,5749,2024-10-24,Engineer I,Human Resources,27
+28,5790,2024-06-01,Chief Design Engineer,Business Development,28
+29,7001,2024-12-06,Account Representative II,Support,29
+30,6822,2025-02-01,Media Manager IV,Product Management,30
+31,5169,2024-04-30,VP Product Management,Human Resources,31
+32,4062,2025-01-04,Senior Developer,Sales,32
+33,7110,2024-05-28,Computer Systems Analyst III,Legal,33
+34,5658,2024-05-31,General Manager,Research and Development,34
+35,5684,2024-11-19,Help Desk Operator,Sales,35
+36,4648,2024-08-07,Community Outreach Specialist,Engineering,36
+37,5036,2024-08-10,Financial Advisor,Services,37
+38,6964,2024-05-25,Computer Systems Analyst I,Support,38
+39,4328,2024-10-12,Actuary,Legal,39
+40,5883,2024-04-09,Administrative Assistant IV,Training,40
+41,7553,2024-07-16,Teacher,Support,41
+42,4735,2024-12-22,Quality Control Specialist,Product Management,42
+43,6982,2025-02-06,Librarian,Marketing,43
+44,8746,2024-04-13,Structural Analysis Engineer,Engineering,44
+45,5978,2024-08-23,Assistant Manager,Legal,45
+46,8862,2025-01-08,Senior Sales Associate,Services,46
+47,6564,2025-02-05,Developer II,Engineering,47
+48,7827,2025-03-07,Engineer II,Sales,48
+49,5993,2025-01-24,Software Engineer I,Business Development,49
+50,6564,2024-05-14,Senior Sales Associate,Human Resources,50
+51,5591,2024-06-11,VP Quality Control,Research and Development,51
+52,4676,2024-08-12,Electrical Engineer,Training,52
+53,4610,2024-09-23,Help Desk Technician,Engineering,53
+54,7795,2024-10-05,Project Manager,Services,54
+55,7323,2024-10-21,Software Test Engineer I,Sales,55
+56,7615,2025-02-15,Graphic Designer,Support,56
+57,6091,2024-10-22,Electrical Engineer,Legal,57
+58,4216,2025-01-30,Engineer II,Product Management,58
+59,5381,2024-12-28,Senior Sales Associate,Engineering,59
+60,5916,2024-09-01,Speech Pathologist,Services,60
+61,7036,2025-01-09,Dental Hygienist,Product Management,61
+62,4741,2024-08-08,Research Nurse,Research and Development,62
+63,6975,2024-12-05,Administrative Assistant IV,Legal,63
+64,8904,2025-01-20,Staff Scientist,Training,64
+65,6717,2024-10-24,VP Product Management,Product Management,65
+66,6218,2025-02-05,Assistant Manager,Product Management,66
+67,5747,2025-03-16,Accountant II,Sales,67
+68,5118,2024-05-16,Civil Engineer,Services,68
+69,7542,2024-12-10,Registered Nurse,Research and Development,69
+70,5438,2024-10-23,Compensation Analyst,Engineering,70
+71,7195,2024-12-02,Programmer Analyst IV,Marketing,71
+72,7636,2025-01-06,Nuclear Power Engineer,Services,72
+73,7071,2024-10-12,Budget/Accounting Analyst II,Training,73
+74,5293,2024-08-20,Quality Control Specialist,Human Resources,74
+75,6948,2024-04-14,Sales Associate,Training,75
+76,5119,2024-08-26,Staff Accountant II,Training,76
+77,5647,2024-06-07,Actuary,Accounting,77
+78,7959,2024-10-21,Senior Cost Accountant,Support,78
+79,5357,2024-05-23,Administrative Officer,Support,79
+80,5668,2024-11-28,Actuary,Product Management,80
+81,5138,2024-06-30,Web Developer II,Sales,81
+82,4218,2024-08-11,Senior Quality Engineer,Business Development,82
+83,4875,2025-01-11,Systems Administrator III,Sales,83
+84,4108,2024-04-04,Food Chemist,Human Resources,84
+85,5207,2024-06-21,Desktop Support Technician,Research and Development,85
+86,7063,2024-05-08,Internal Auditor,Services,86
+87,4167,2025-02-06,Mechanical Systems Engineer,Engineering,87
+88,5637,2024-06-24,Structural Analysis Engineer,Business Development,88
+89,6765,2024-07-29,Account Coordinator,Research and Development,89
+90,6844,2025-02-19,Software Consultant,Human Resources,90
+91,7906,2024-10-11,Account Executive,Support,91
+92,8204,2024-07-26,Marketing Manager,Legal,92
+93,7632,2024-04-23,Graphic Designer,Support,93
+94,6782,2024-05-14,Payment Adjustment Coordinator,Sales,94
+95,6729,2024-08-12,Analyst Programmer,Services,95
+96,4274,2024-09-15,Senior Sales Associate,Research and Development,96
+97,5511,2024-11-25,Media Manager I,Research and Development,97
+98,6569,2024-06-08,Tax Accountant,Business Development,98
+99,6950,2024-11-12,Staff Scientist,Human Resources,99
+100,5043,2024-07-06,Human Resources Assistant I,Engineering,100
+101,8236,2024-04-18,Web Designer IV,Accounting,101
+102,6180,2024-07-27,Graphic Designer,Product Management,102
+103,4074,2024-05-06,Assistant Manager,Sales,103
+104,6299,2024-04-24,Librarian,Product Management,104
+105,8129,2024-08-02,General Manager,Business Development,105
+106,5045,2024-08-26,Paralegal,Product Management,106
+107,7990,2024-12-22,Human Resources Assistant I,Support,107
+108,5649,2024-05-23,Data Coordinator,Training,108
+109,7534,2024-09-12,Design Engineer,Support,109
+110,5352,2024-07-09,Account Coordinator,Business Development,110
+111,4769,2024-08-19,Research Assistant IV,Engineering,111
+112,5170,2024-07-19,Chief Design Engineer,Sales,112
+113,5284,2024-06-29,Programmer Analyst III,Training,113
+114,4857,2024-05-26,Product Engineer,Research and Development,114
+115,8152,2024-07-11,Occupational Therapist,Legal,115
+116,6622,2024-05-15,Help Desk Operator,Training,116
+117,4559,2024-09-27,Computer Systems Analyst I,Engineering,117
+118,4247,2024-08-19,Senior Editor,Product Management,118
+119,7487,2024-10-16,Account Executive,Business Development,119
+120,8466,2024-12-31,Accounting Assistant I,Sales,120
+121,4710,2024-06-26,GIS Technical Architect,Marketing,121
+122,8355,2024-08-25,Geologist II,Sales,122
+123,6929,2025-01-07,Compensation Analyst,Support,123
+124,4803,2024-07-11,Tax Accountant,Business Development,124
+125,5588,2024-06-11,Recruiting Manager,Marketing,125
+126,6375,2025-01-17,Help Desk Technician,Engineering,126
+127,5387,2024-10-29,Accounting Assistant III,Sales,127
+128,8437,2024-03-29,Developer III,Services,128
+129,8109,2024-09-06,Technical Writer,Business Development,129
+130,5147,2025-02-16,Mechanical Systems Engineer,Sales,130
+131,5851,2025-03-13,Safety Technician II,Marketing,131
+132,6438,2024-04-26,Administrative Officer,Training,132
+133,7774,2025-03-22,Assistant Professor,Human Resources,133
+134,7712,2025-03-18,Analyst Programmer,Training,134
+135,4870,2024-09-02,Project Manager,Research and Development,135
+136,6611,2024-11-02,Graphic Designer,Accounting,136
+137,5371,2025-03-05,Senior Quality Engineer,Accounting,137
+138,6049,2024-10-29,Compensation Analyst,Human Resources,138
+139,8374,2024-12-03,Engineer III,Support,139
+140,6140,2024-09-25,Structural Analysis Engineer,Training,140
+141,8603,2024-10-28,VP Marketing,Research and Development,141
+142,5828,2024-08-30,Administrative Officer,Marketing,142
+143,6713,2024-12-17,Human Resources Assistant I,Sales,143
+144,7827,2024-05-27,Design Engineer,Marketing,144
+145,8251,2024-06-17,Software Test Engineer III,Training,145
+146,8403,2025-03-06,Research Nurse,Legal,146
+147,4125,2024-10-06,Human Resources Manager,Support,147
+148,5051,2024-04-04,Staff Scientist,Training,148
+149,7138,2024-09-08,Financial Analyst,Product Management,149
+150,5559,2025-02-10,Nurse,Services,150
+151,6739,2024-05-20,Account Representative II,Engineering,151
+152,6479,2024-07-11,Human Resources Manager,Engineering,152
+153,6832,2024-09-10,Junior Executive,Training,153
+154,4366,2024-08-31,Programmer Analyst II,Support,154
+155,7749,2025-02-01,General Manager,Business Development,155
+156,7839,2024-06-10,Junior Executive,Legal,156
+157,7569,2024-11-06,Internal Auditor,Engineering,157
+158,5576,2024-09-13,VP Marketing,Legal,158
+159,6250,2025-01-18,Professor,Sales,159
+160,4077,2024-10-25,Executive Secretary,Training,160
+161,8053,2024-09-03,Administrative Officer,Human Resources,161
+162,7434,2025-01-13,Help Desk Technician,Product Management,162
+163,6247,2025-03-12,VP Quality Control,Product Management,163
+164,7523,2025-01-27,Research Associate,Support,164
+165,6083,2024-08-08,Engineer IV,Research and Development,165
+166,8088,2024-04-28,Engineer IV,Research and Development,166
+167,4558,2024-07-03,Financial Analyst,Sales,167
+168,7404,2024-07-26,Associate Professor,Support,168
+169,8141,2024-08-20,Paralegal,Accounting,169
+170,4580,2024-04-11,Account Executive,Human Resources,170
+171,8689,2024-11-15,Chief Design Engineer,Engineering,171
+172,8487,2024-10-15,Teacher,Services,172
+173,4820,2024-04-13,Electrical Engineer,Research and Development,173
+174,8302,2025-03-21,Human Resources Assistant II,Product Management,174
+175,6730,2024-12-07,Senior Cost Accountant,Engineering,175
+176,4571,2024-10-20,Recruiting Manager,Services,176
+177,4236,2024-06-09,VP Accounting,Human Resources,177
+178,8519,2024-10-16,Programmer Analyst IV,Services,178
+179,8702,2024-09-11,Financial Advisor,Support,179
+180,7311,2024-07-05,Financial Analyst,Engineering,180
+181,8762,2024-09-24,Environmental Specialist,Engineering,181
+182,4083,2025-02-12,Financial Advisor,Training,182
+183,7445,2024-11-21,Assistant Media Planner,Engineering,183
+184,5770,2024-04-28,Research Assistant IV,Marketing,184
+185,6222,2025-03-13,Nurse,Human Resources,185
+186,8975,2024-11-16,VP Product Management,Marketing,186
+187,8986,2024-12-09,Pharmacist,Legal,187
+188,7854,2024-07-07,Analog Circuit Design manager,Support,188
+189,5875,2024-07-18,Legal Assistant,Support,189
+190,4787,2024-05-06,General Manager,Accounting,190
+191,4738,2024-09-29,Editor,Accounting,191
+192,8986,2024-05-05,Financial Advisor,Engineering,192
+193,7766,2025-02-14,Help Desk Technician,Sales,193
+194,5751,2025-02-17,Nurse Practicioner,Accounting,194
+195,7386,2024-12-11,VP Sales,Services,195
+196,6860,2024-09-23,Software Engineer II,Legal,196
+197,5682,2024-05-26,Food Chemist,Accounting,197
+198,5740,2024-12-30,Help Desk Technician,Accounting,198
+199,5535,2024-07-14,Database Administrator II,Sales,199
+200,7360,2024-07-13,Community Outreach Specialist,Marketing,200
+201,8959,2024-04-21,Senior Financial Analyst,Sales,201
+202,8853,2024-10-13,Database Administrator I,Sales,202
+203,7945,2024-06-18,Quality Control Specialist,Product Management,203
+204,6209,2024-06-17,Marketing Assistant,Support,204
+205,7056,2024-09-18,Help Desk Technician,Product Management,205
+206,5040,2025-02-25,Marketing Assistant,Engineering,206
+207,5192,2024-09-27,Paralegal,Research and Development,207
+208,7663,2024-09-27,Statistician III,Legal,208
+209,8716,2024-06-27,Graphic Designer,Human Resources,209
+210,8549,2024-05-24,Design Engineer,Sales,210
+211,4552,2025-02-06,Operator,Research and Development,211
+212,6341,2024-06-22,Chief Design Engineer,Sales,212
+213,7051,2025-01-20,Biostatistician III,Services,213
+214,6808,2024-08-21,Office Assistant III,Marketing,214
+215,7768,2024-08-11,Account Representative II,Research and Development,215
+216,4925,2024-04-08,Design Engineer,Services,216
+217,5785,2024-05-05,Quality Control Specialist,Accounting,217
+218,8756,2024-09-20,Account Representative III,Research and Development,218
+219,7562,2024-07-30,Assistant Manager,Human Resources,219
+220,6706,2024-08-17,Community Outreach Specialist,Research and Development,220
+221,6499,2024-04-28,Programmer Analyst III,Human Resources,221
+222,8621,2025-03-16,Structural Analysis Engineer,Human Resources,222
+223,8238,2025-01-11,Account Representative IV,Services,223
+224,4689,2024-05-17,VP Product Management,Business Development,224
+225,8671,2024-05-16,Statistician II,Training,225
+226,5918,2024-10-26,Legal Assistant,Accounting,226
+227,5345,2024-06-02,Media Manager III,Accounting,227
+228,6715,2024-09-05,Speech Pathologist,Support,228
+229,5347,2024-09-01,Senior Quality Engineer,Marketing,229
+230,4531,2024-12-04,Software Consultant,Services,230
+231,8952,2024-11-22,Account Representative I,Human Resources,231
+232,7860,2024-12-24,Desktop Support Technician,Business Development,232
+233,7205,2024-11-20,Statistician II,Marketing,233
+234,5074,2024-12-30,Geologist III,Business Development,234
+235,4495,2025-03-12,Accounting Assistant III,Training,235
+236,5704,2024-06-30,Software Engineer II,Engineering,236
+237,6349,2024-07-30,VP Product Management,Training,237
+238,4810,2025-03-08,Programmer Analyst III,Research and Development,238
+239,7406,2024-06-13,Analog Circuit Design manager,Human Resources,239
+240,4430,2024-11-27,Operator,Marketing,240
+241,4602,2024-08-03,Mechanical Systems Engineer,Product Management,241
+242,5215,2024-08-26,Budget/Accounting Analyst III,Support,242
+243,5211,2024-04-01,Information Systems Manager,Marketing,243
+244,5270,2025-03-12,Account Representative II,Training,244
+245,6685,2025-02-04,GIS Technical Architect,Research and Development,245
+246,7982,2024-05-21,Accountant II,Business Development,246
+247,7038,2024-06-09,Senior Cost Accountant,Product Management,247
+248,7348,2024-08-31,Nurse Practicioner,Business Development,248
+249,4901,2024-10-04,Safety Technician III,Human Resources,249
+250,7675,2024-07-22,Technical Writer,Marketing,250
+251,8940,2024-08-20,Professor,Business Development,251
+252,8452,2024-09-14,Marketing Assistant,Accounting,252
+253,5234,2024-08-18,Biostatistician III,Sales,253
+254,7109,2024-11-05,Senior Editor,Legal,254
+255,4302,2024-04-16,Social Worker,Legal,255
+256,7238,2024-04-25,Sales Associate,Business Development,256
+257,7099,2024-04-19,Actuary,Marketing,257
+258,8115,2024-06-05,Quality Engineer,Support,258
+259,4949,2024-09-19,Teacher,Product Management,259
+260,4835,2025-01-11,Sales Associate,Legal,260
+261,6526,2024-07-21,Automation Specialist I,Accounting,261
+262,6027,2024-04-10,Quality Engineer,Engineering,262
+263,4070,2025-01-19,Marketing Assistant,Support,263
+264,6730,2024-06-06,Cost Accountant,Human Resources,264
+265,4829,2024-06-30,Health Coach III,Accounting,265
+266,6844,2024-12-29,Research Nurse,Accounting,266
+267,4811,2024-07-31,VP Sales,Legal,267
+268,6855,2024-03-26,Business Systems Development Analyst,Research and Development,268
+269,6715,2024-12-04,Civil Engineer,Human Resources,269
+270,6653,2024-03-24,Clinical Specialist,Research and Development,270
+271,6832,2024-09-26,Sales Associate,Human Resources,271
+272,5517,2025-03-20,Paralegal,Support,272
+273,5096,2024-06-07,Account Executive,Legal,273
+274,7617,2024-05-24,VP Marketing,Legal,274
+275,7286,2024-10-24,VP Quality Control,Marketing,275
+276,4843,2024-07-04,Computer Systems Analyst III,Marketing,276
+277,4099,2025-02-18,Accountant IV,Accounting,277
+278,4306,2025-02-24,VP Accounting,Business Development,278
+279,4390,2025-02-24,Structural Engineer,Support,279
+280,8049,2024-11-17,Structural Engineer,Training,280
+281,4703,2024-12-23,Help Desk Technician,Support,281
+282,6275,2024-03-25,Desktop Support Technician,Sales,282
+283,6206,2024-03-31,Structural Analysis Engineer,Marketing,283
+284,7649,2024-04-06,Database Administrator I,Human Resources,284
+285,4429,2024-07-16,Software Consultant,Support,285
+286,5120,2024-08-05,Analyst Programmer,Research and Development,286
+287,4852,2024-07-10,GIS Technical Architect,Accounting,287
+288,4389,2024-04-29,Safety Technician I,Marketing,288
+289,5534,2025-02-02,Systems Administrator III,Legal,289
+290,5620,2024-05-10,Data Coordinator,Research and Development,290
+291,4861,2025-01-07,Programmer Analyst III,Human Resources,291
+292,8932,2024-12-06,Financial Analyst,Training,292
+293,8258,2024-05-30,Geologist III,Legal,293
+294,8759,2025-03-19,VP Quality Control,Accounting,294
+295,6492,2024-12-04,Professor,Services,295
+296,6462,2024-07-29,Biostatistician I,Marketing,296
+297,4791,2024-07-24,Community Outreach Specialist,Engineering,297
+298,8660,2025-01-13,Senior Cost Accountant,Product Management,298
+299,8910,2024-11-18,Junior Executive,Sales,299
+300,5669,2024-06-05,Analyst Programmer,Human Resources,300
+301,8367,2024-09-25,Professor,Training,301
+302,7029,2024-06-06,Analog Circuit Design manager,Sales,302
+303,6718,2024-04-08,Professor,Marketing,303
+304,4234,2024-08-26,Automation Specialist III,Support,304
+305,7585,2024-10-24,Product Engineer,Human Resources,305
+306,5035,2024-04-05,Office Assistant II,Support,306
+307,8278,2024-08-11,Sales Representative,Business Development,307
+308,5437,2025-02-26,Community Outreach Specialist,Sales,308
+309,6584,2025-01-04,Design Engineer,Research and Development,309
+310,5782,2025-01-02,Actuary,Services,310
+311,4425,2024-12-02,Computer Systems Analyst I,Training,311
+312,8847,2024-10-22,Senior Editor,Legal,312
+313,8657,2024-06-01,Chief Design Engineer,Accounting,313
+314,8116,2024-06-23,Actuary,Human Resources,314
+315,4614,2024-08-06,VP Accounting,Engineering,315
+316,5479,2024-07-04,Teacher,Engineering,316
+317,7560,2024-04-13,Senior Cost Accountant,Research and Development,317
+318,7093,2024-09-20,Biostatistician II,Research and Development,318
+319,7267,2024-07-25,Recruiter,Services,319
+320,5210,2024-11-11,Safety Technician I,Sales,320
+321,8683,2024-11-22,Accountant IV,Engineering,321
+322,5735,2024-10-18,Mechanical Systems Engineer,Support,322
+323,5535,2024-09-11,Senior Editor,Training,323
+324,5103,2024-07-19,Staff Scientist,Engineering,324
+325,7884,2025-01-22,VP Sales,Training,325
+326,8323,2025-03-18,Software Test Engineer I,Legal,326
+327,8568,2024-07-10,Social Worker,Support,327
+328,5333,2024-11-16,Research Associate,Product Management,328
+329,6742,2025-03-06,Human Resources Assistant II,Support,329
+330,8646,2024-03-25,Financial Advisor,Research and Development,330
+331,5303,2024-04-07,Professor,Engineering,331
+332,5022,2024-12-25,Senior Developer,Business Development,332
+333,8076,2024-12-31,Marketing Assistant,Product Management,333
+334,8176,2024-10-26,Data Coordinator,Accounting,334
+335,8143,2025-01-31,Nuclear Power Engineer,Product Management,335
+336,8020,2025-01-05,Geologist II,Accounting,336
+337,8083,2024-11-02,Information Systems Manager,Research and Development,337
+338,8574,2024-05-13,Occupational Therapist,Research and Development,338
+339,5180,2024-06-22,Chief Design Engineer,Services,339
+340,5643,2024-05-20,Structural Analysis Engineer,Engineering,340
+341,5773,2024-12-12,Registered Nurse,Business Development,341
+342,8746,2025-01-13,Sales Associate,Human Resources,342
+343,8227,2024-08-11,Accounting Assistant II,Product Management,343
+344,4091,2024-07-31,Automation Specialist III,Services,344
+345,7892,2024-04-23,Accountant II,Marketing,345
+346,5483,2025-03-15,Pharmacist,Support,346
+347,6265,2024-10-23,Nurse,Business Development,347
+348,5653,2024-06-09,Occupational Therapist,Services,348
+349,6178,2024-07-15,Information Systems Manager,Research and Development,349
+350,8605,2024-11-01,Graphic Designer,Accounting,350
+351,4632,2024-11-13,Librarian,Marketing,351
+352,8196,2025-03-07,Speech Pathologist,Research and Development,352
+353,7778,2024-09-29,Programmer Analyst III,Research and Development,353
+354,4610,2024-07-08,Compensation Analyst,Support,354
+355,6629,2025-03-15,Operator,Business Development,355
+356,5727,2024-12-09,Physical Therapy Assistant,Support,356
+357,4454,2024-12-02,Speech Pathologist,Human Resources,357
+358,4708,2024-07-26,Internal Auditor,Product Management,358
+359,8082,2025-01-18,Marketing Assistant,Engineering,359
+360,7842,2024-05-23,Help Desk Operator,Accounting,360
+361,7045,2024-08-15,Engineer III,Services,361
+362,7866,2025-02-14,Clinical Specialist,Support,362
+363,7914,2025-02-13,Web Developer IV,Research and Development,363
+364,4293,2025-01-13,Recruiting Manager,Services,364
+365,7438,2025-03-19,Account Representative II,Sales,365
+366,7471,2024-09-05,Chief Design Engineer,Human Resources,366
+367,6911,2025-02-26,Office Assistant III,Human Resources,367
+368,5398,2024-12-23,Statistician III,Product Management,368
+369,7286,2024-07-08,Help Desk Operator,Training,369
+370,8706,2024-11-19,Web Designer III,Engineering,370
+371,6895,2024-11-04,Safety Technician III,Business Development,371
+372,4132,2024-08-07,Design Engineer,Engineering,372
+373,7306,2024-07-13,Mechanical Systems Engineer,Services,373
+374,7023,2024-10-24,Pharmacist,Services,374
+375,5208,2024-04-08,Media Manager II,Marketing,375
+376,5939,2024-04-24,Health Coach II,Legal,376
+377,4016,2024-10-16,Administrative Officer,Marketing,377
+378,8270,2024-07-13,Occupational Therapist,Services,378
+379,7501,2024-03-26,Assistant Professor,Support,379
+380,6857,2024-09-30,Help Desk Operator,Sales,380
+381,5890,2024-12-23,Assistant Media Planner,Services,381
+382,7590,2024-06-14,Desktop Support Technician,Product Management,382
+383,5532,2024-05-19,VP Sales,Legal,383
+384,7001,2024-09-25,Safety Technician III,Human Resources,384
+385,5723,2025-03-07,Professor,Human Resources,385
+386,4601,2024-09-30,Structural Engineer,Training,386
+387,8257,2024-05-13,Structural Engineer,Sales,387
+388,4560,2024-09-15,Computer Systems Analyst IV,Accounting,388
+389,7003,2024-09-02,Accounting Assistant III,Business Development,389
+390,4695,2024-12-19,Internal Auditor,Support,390
+391,5652,2025-02-24,Safety Technician III,Marketing,391
+392,7725,2025-02-01,VP Sales,Product Management,392
+393,6317,2024-09-12,Electrical Engineer,Support,393
+394,4868,2024-12-09,VP Sales,Support,394
+395,8010,2025-01-25,Senior Quality Engineer,Sales,395
+396,6851,2024-07-16,Human Resources Manager,Product Management,396
+397,7839,2025-01-19,Chief Design Engineer,Business Development,397
+398,5617,2024-11-29,Research Assistant III,Product Management,398
+399,6498,2025-01-11,Research Associate,Human Resources,399
+400,8433,2024-04-12,Sales Representative,Research and Development,400
