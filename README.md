@@ -48,7 +48,7 @@ Provide the following SQL scripts:
 
 📜 **[View `create_tables.sql`](Phase1/scripts/NurserySchoolCreateTable.sql)**  
 
-- **Insert Data Script** - The SQL script for insert datat to the database tables is available in the repository:  
+- **Insert Data Script** - The SQL script for insert data to the database tables is available in the repository:  
 
 📜 **[View `insert_tables.sql`](Phase1/scripts/NurserySchoolInserts.sql)**  
  
@@ -60,9 +60,13 @@ Provide the following SQL scripts:
 
 📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll.sql)**  
   
-###  Data   to do...
-- **using [mockaro](https://www.mockaroo.com/)**
-- **[View `personMock_data.csv`](Phase1/mockdata/personMock_data.csv)**  
+###  Data  
+- **using **
+- **[View `personMock_data.csv`](Phase1/mockdata/personMock_data.csv)**
+
+- - **person Data File** - a file created by [mockaro](https://www.mockaroo.com/)
+📜 **[View `personMock_data.csv`](Phase1/mockdata/personMock_data.cs)**  
+
 - **Second Method**
 - **Third Method**
 
