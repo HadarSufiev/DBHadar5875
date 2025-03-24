@@ -82,9 +82,8 @@ results for  the command `SELECT COUNT(*) FROM Apotropus;`:
 
 ####  Second tool: using [generatedata](https://generatedata.com/generator). to create csv file 
 #####  Entering a data to babyGroup table
--  Group Number  scope 1-400
--  
-📜[View `personMock_data.csv`](Phase1/generateData/babyGroupGenerateData.csv)
+-  Group Number  scope 1-400 
+📜[View `babyGroupGenerateDat.csv`](Phase1/generateData/babyGroupGenerateData.csv)
 
 ![image](https://github.com/user-attachments/assets/9cf296ca-5ccf-46a2-a484-18bd5a5bef4d)
 
@@ -95,6 +94,19 @@ results for  the command `SELECT COUNT(*) FROM Apotropus;`:
 results for  the command `SELECT COUNT(*) FROM BabyGroup;`:
 <br>
 ![image](https://github.com/user-attachments/assets/3572a931-0f33-4e31-aced-371117e109db)
+
+#####  Entering a data to baby table
+-  Bayby id scope 801-1200
+-  Group Number  range 1-400
+
+📜[View `babyGenerateDat.csv`](Phase1/generateData/babyGenerateData.csv)
+![image](https://github.com/user-attachments/assets/f9395c30-c300-4f11-9f22-9397bf6e02bf)
+
+![image](https://github.com/user-attachments/assets/a0073b25-4b9c-43ce-a6c1-e0d961ae70d8)
+results for  the command `SELECT COUNT(*) FROM Baby;`:
+<br>
+![image](https://github.com/user-attachments/assets/3572a931-0f33-4e31-aced-371117e109db)
+
 
 ####  Third tool: using python to create csv file
 
