@@ -82,12 +82,16 @@ results for  the command `SELECT 'Apotropus' AS table_name, COUNT(*) FROM Apotro
 דדדדדדdd
 ####  Second tool: using [generatedata](https://generatedata.com/generator). to create csv file 
 #####  Entering a data to babyGroup table
+-  Group Number  scope 1-400
+-  
+📜[View `personMock_data.csv`](Phase1/generateData/Person_MOCK_DATA.csv)
+
 ![image](https://github.com/user-attachments/assets/9cf296ca-5ccf-46a2-a484-18bd5a5bef4d)
 
 ![image](https://github.com/user-attachments/assets/046ee01c-599b-4858-886f-7c9809c60bfa)
 
-
 ![image](https://github.com/user-attachments/assets/b2045ef2-ca93-4829-af5f-843e792afdfd)
+
 
 
 ####  Third tool: using python to create csv file
