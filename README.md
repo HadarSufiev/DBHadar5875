@@ -113,7 +113,7 @@ results for  the command `SELECT COUNT(*) FROM Baby;`:
 ### Backup 
 -   backups files are kept with the date and hour of the backup:  
 
-[עבור לתיקיית הגיבויים](backups/)
+[עבור לתיקיית הגיבויים](Phase1/Backup)
 
 
 
