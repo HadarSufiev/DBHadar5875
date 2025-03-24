@@ -61,11 +61,10 @@ Provide the following SQL scripts:
 📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll.sql)**  
   
 ###  Data  
-- **using **
-- **[View `personMock_data.csv`](Phase1/mockdata/personMock_data.csv)**
 
 - - **person Data File** - a file created by [mockaro](https://www.mockaroo.com/)
-📜 **[View `personMock_data.csv`](Phase1/mockdata/personMock_data.cs)**  
+📜 **[View `personMock_data.csv`](Phase1/mockData/Person_Mock_data.cs)**
+
 
 - **Second Method**
 - **Third Method**
