@@ -61,7 +61,8 @@ Provide the following SQL scripts:
 📜 **[View `selectAll_tables.sql`](Phase1/scripts/NurserySchoolSelectAll.sql)**  
   
 ###  Data   to do...
-- **First Method**
+- **using [mockaro](https://www.mockaroo.com/)**
+- **[View `personMock_data.csv`](Phase1/mockdata/personMock_data.csv)**  
 - **Second Method**
 - **Third Method**
 
