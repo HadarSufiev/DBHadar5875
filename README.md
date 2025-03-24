@@ -62,11 +62,14 @@ Provide the following SQL scripts:
   
 ###  Data  
 #### ** csv Data Files created by [mockaro](https://www.mockaroo.com/)** 
-- - **person Data File** 
+- - person Data File 
 📜 **[View `personMock_data.csv`](Phase1/mockData/Person_MOCK_DATA.csv)**
-- - **nanny Data File**
+- - nanny Data File
 📜 **[View `nannyMock_data.csv`](Phase1/mockData/nannyMOCK_DATA.csv)**
-- - **appotropus Data File**
+- -  entering a data to appotropus table*
+![image](https://github.com/user-attachments/assets/c6ae9a74-aac6-4195-b010-1ad78690e459)
+formula of person id : this + 400
+genetate csv file with person id between 400 to 800
 📜 **[View `apotropusMock_data.csv`](Phase1/mockData/apotropusMOCK_DATA.csv)**
 ![image](https://github.com/user-attachments/assets/08e3b07b-c3ab-44c6-917b-f904926f6901)
 ![image](https://github.com/user-attachments/assets/6833ecf1-90e6-454d-8396-9dddf415e323)
