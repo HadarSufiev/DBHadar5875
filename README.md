@@ -69,6 +69,7 @@ Provide the following SQL scripts:
 - - **appotropus Data File**
 📜 **[View `apotropusMock_data.csv`](Phase1/mockData/apotropusMOCK_DATA.csv)**
 ![image](https://github.com/user-attachments/assets/08e3b07b-c3ab-44c6-917b-f904926f6901)
+![image](https://github.com/user-attachments/assets/6833ecf1-90e6-454d-8396-9dddf415e323)
 
 - **Second Method**
 - **Third Method**
