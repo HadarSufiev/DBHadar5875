@@ -80,7 +80,16 @@ results for  the command `SELECT 'Apotropus' AS table_name, COUNT(*) FROM Apotro
 <br>
 ![image](https://github.com/user-attachments/assets/eaa16659-2fd8-44c0-81cf-c30f62632258)
 דדדדדדdd
-####  Second tool: 
+####  Second tool: using [generatedata](https://generatedata.com/generator). to create csv file 
+#####  Entering a data to babyGroup table
+![image](https://github.com/user-attachments/assets/9cf296ca-5ccf-46a2-a484-18bd5a5bef4d)
+
+![image](https://github.com/user-attachments/assets/046ee01c-599b-4858-886f-7c9809c60bfa)
+
+
+![image](https://github.com/user-attachments/assets/b2045ef2-ca93-4829-af5f-843e792afdfd)
+
+
 ####  Third tool: using python to create csv file
 
 ### Backup 
