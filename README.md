@@ -62,13 +62,13 @@ Provide the following SQL scripts:
   
 ###  Data  
 ####  First tool: using [mockaro](https://www.mockaroo.com/) to create csv file
-#####  entering a data to person table
+#####  Entering a data to person table
 -  person id scope 1-800
 📜[View `personMock_data.csv`](Phase1/mockData/Person_MOCK_DATA.csv)
-#####  entering a data to nanny table
+#####  Entering a data to nanny table
 -  person id scope 1-400
 📜[View `nannyMock_data.csv`](Phase1/mockData/nannyMOCK_DATA.csv)
-#####   entering a data to apotropus table
+#####   Entering a data to apotropus table
 -  person id scope 401-800
 -  Formula of Person ID: `this + 400`
 ![image](https://github.com/user-attachments/assets/c6ae9a74-aac6-4195-b010-1ad78690e459)
@@ -80,8 +80,8 @@ results for  the command `SELECT 'Apotropus' AS table_name, COUNT(*) FROM Apotro
 <br>
 ![image](https://github.com/user-attachments/assets/eaa16659-2fd8-44c0-81cf-c30f62632258)
 דדדדדדdd
-- **Second Method**
-- **Third Method**
+####  Second tool: 
+####  Third tool: using python to create csv file
 
 ### Backup 
 -  The backup file is available in the repository:  
