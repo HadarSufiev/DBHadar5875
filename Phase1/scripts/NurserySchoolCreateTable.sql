@@ -2,22 +2,22 @@ CREATE TABLE if not exists BabyGroup
 (
   GroupNumber INT NOT NULL,
   GroupMax INT NOT NULL,
-  GroupType VARCHAR(15) NOT NULL,
-  startTime VARCHAR(5) NOT NULL,
-  finishtime VARCHAR(5) NOT NULL,
-  year VARCHAR(5) NOT NULL,
+  GroupType VARCHAR(30) NOT NULL,
+  startTime VARCHAR(10) NOT NULL,
+  finishtime VARCHAR(10) NOT NULL,
+  year VARCHAR(10) NOT NULL,
   PRIMARY KEY (GroupNumber)
 );
 
 CREATE TABLE if not exists Person
 (
   PersonId INT NOT NULL,
-  PersonFirstName VARCHAR(15) NOT NULL,
-  city VARCHAR(15) NOT NULL,
-  street VARCHAR(15) NOT NULL,
+  PersonFirstName VARCHAR(30) NOT NULL,
+  city VARCHAR(30) NOT NULL,
+  street VARCHAR(40) NOT NULL,
   num INT NOT NULL,
-  PersonLastName VARCHAR(15) NOT NULL,
-  Mail VARCHAR(25),
+  PersonLastName VARCHAR(30) NOT NULL,
+  Mail VARCHAR(40),
   PRIMARY KEY (PersonId)
 );
 
@@ -26,8 +26,8 @@ CREATE TABLE if not exists Nanny
   experiance int NOT NULL,
   salary INT NOT NULL,
   HireDate date NOT NULL,
-  Certification VARCHAR(25) NOT NULL,
-  Specialization VARCHAR(25) NOT NULL,
+  Certification VARCHAR(40) NOT NULL,
+  Specialization VARCHAR(40) NOT NULL,
   PersonId INT NOT NULL,
   PRIMARY KEY (PersonId),
   FOREIGN KEY (PersonId) REFERENCES Person(PersonId) on delete cascade
@@ -35,9 +35,9 @@ CREATE TABLE if not exists Nanny
 
 CREATE TABLE if not exists Apotropus
 (
-  workPhone VARCHAR(10),
-  RelationToChild VARCHAR(10) NOT NULL,
-  Workplace VARCHAR(15),
+  workPhone VARCHAR(20),
+  RelationToChild VARCHAR(20) NOT NULL,
+  Workplace VARCHAR(20),
   PersonId INT NOT NULL,
   PRIMARY KEY (PersonId),
   FOREIGN KEY (PersonId) REFERENCES Person(PersonId) on delete cascade
@@ -45,8 +45,8 @@ CREATE TABLE if not exists Apotropus
 
 CREATE TABLE if not exists Telephone
 (
-  number VARCHAR(10) NOT NULL,
-  type VARCHAR(15) NOT NULL,
+  telnumber VARCHAR(10) NOT NULL,
+  teltype VARCHAR(15) NOT NULL,
   telNum int NOT NULL,
   PersonId INT NOT NULL,
   PRIMARY KEY (telNum),
@@ -57,7 +57,7 @@ CREATE TABLE if not exists Vacation
 (
   startDate date NOT NULL,
   endDate date NOT NULL,
-  year VARCHAR(5) NOT NULL,
+  Vacationyear VARCHAR(5) NOT NULL,
   HolidayName VARCHAR(15) NOT NULL,
   VacationNum INT NOT NULL,
   PRIMARY KEY (VacationNum)
@@ -112,4 +112,3 @@ CREATE TABLE if not exists BabyApotropus
   FOREIGN KEY (BabyId) REFERENCES Baby(BabyId) on delete cascade,
   FOREIGN KEY (PersonId) REFERENCES Apotropus(PersonId) on delete cascade
 );
-
