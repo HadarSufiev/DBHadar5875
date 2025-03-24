@@ -111,9 +111,9 @@ results for  the command `SELECT COUNT(*) FROM Baby;`:
 ####  Third tool: using python to create csv file
 
 ### Backup 
--  The backup file is available in the repository:  
+-   backups files are kept with the date and hour of the backup:  
 
-📜 **[View `backup`](Phase1/Backup/backup04032025)**  
+[עבור לתיקיית הגיבויים](backups/)
 
 
 
