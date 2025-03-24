@@ -5,9 +5,10 @@ CREATE TABLE if not exists BabyGroup
   GroupType VARCHAR(30) NOT NULL,
   startTime VARCHAR(10) NOT NULL,
   finishtime VARCHAR(10) NOT NULL,
-  year VARCHAR(10) NOT NULL,
+  BabyGroup VARCHAR(10) NOT NULL,
   PRIMARY KEY (GroupNumber)
 );
+
 
 CREATE TABLE if not exists Person
 (
