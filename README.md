@@ -65,9 +65,10 @@ Provide the following SQL scripts:
 - - **person Data File** 
 📜 **[View `personMock_data.csv`](Phase1/mockData/Person_MOCK_DATA.csv)**
 - - **nanny Data File**
-📜 **[View `personMock_data.csv`](Phase1/mockData/nannyMOCK_DATA.csv)**
+📜 **[View `nannyMock_data.csv`](Phase1/mockData/nannyMOCK_DATA.csv)**
 - - **appotropus Data File**
-📜 **[View `personMock_data.csv`](Phase1/mockData/appotropusMOCK_DATA.csv)**
+📜 **[View `apotropusMock_data.csv`](Phase1/mockData/apotropusMOCK_DATA.csv)**
+![image](https://github.com/user-attachments/assets/08e3b07b-c3ab-44c6-917b-f904926f6901)
 
 - **Second Method**
 - **Third Method**
