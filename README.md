@@ -62,23 +62,22 @@ Provide the following SQL scripts:
   
 ###  Data  
 ####  First tool: using [mockaro](https://www.mockaroo.com/) to create csv file
-- -  entering a data to person table
-  -  person id scope 1-800
+#####  entering a data to person table
+-  person id scope 1-800
 📜[View `personMock_data.csv`](Phase1/mockData/Person_MOCK_DATA.csv)
-- -  entering a data to nanny table
-  -  person id scope 1-400
+#####  entering a data to nanny table
+-  person id scope 1-400
 📜[View `nannyMock_data.csv`](Phase1/mockData/nannyMOCK_DATA.csv)
-- -  entering a data to apotropus table
+#####   entering a data to apotropus table
+-  person id scope 401-800
+-  Formula of Person ID: `this + 400`
 ![image](https://github.com/user-attachments/assets/c6ae9a74-aac6-4195-b010-1ad78690e459)
- -  person id scope 400-800
---formula of person id : this + 400
 
 📜 **[View `apotropusMock_data.csv`](Phase1/mockData/apotropusMOCK_DATA.csv)**
 ![image](https://github.com/user-attachments/assets/08e3b07b-c3ab-44c6-917b-f904926f6901)
 ![image](https://github.com/user-attachments/assets/6833ecf1-90e6-454d-8396-9dddf415e323)
 results for  the command select count(*) from apotropus:
 ![image](https://github.com/user-attachments/assets/eaa16659-2fd8-44c0-81cf-c30f62632258)
-
 
 - **Second Method**
 - **Third Method**
