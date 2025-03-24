@@ -76,7 +76,7 @@ Provide the following SQL scripts:
 📜 **[View `apotropusMock_data.csv`](Phase1/mockData/apotropusMOCK_DATA.csv)**
 ![image](https://github.com/user-attachments/assets/08e3b07b-c3ab-44c6-917b-f904926f6901)
 ![image](https://github.com/user-attachments/assets/6833ecf1-90e6-454d-8396-9dddf415e323)
-results for  the command 'SELECT 'Apotropus' AS table_name, COUNT(*) FROM Apotropus;':
+results for  the command `SELECT 'Apotropus' AS table_name, COUNT(*) FROM Apotropus;`:
 ![image](https://github.com/user-attachments/assets/eaa16659-2fd8-44c0-81cf-c30f62632258)
 
 - **Second Method**
